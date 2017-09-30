@@ -6,6 +6,6 @@ It is a project that I worked on throughout my second and third years at univers
 The code has been split amongst the two seperate folders, "Ouroboros Engine" and "Waxen", to show the seperation between engine code and game code.
 Within these are further subfolders to seperate all the different managers and interfaces within the engine.
 
-Some of the game code has been built with a 2D platformer in mind, however, I have done my best to make the engine generic so it can handle most other 2D genres.
+Some of the game code has been built with a 2D platformer in mind, however, I have done my best to make the engine generic so it can handle most other 2D genres. This being said the game code is very lackluster within this project, as it is current only purpose is to make sure it shows off the assets of the Engine.
 
 The Scene Manager within this engine is an adaptation of some Microsoft source code. See included a Microsoft Permissive License that grants me the rights to do so.
