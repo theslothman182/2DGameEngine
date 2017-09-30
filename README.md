@@ -7,3 +7,5 @@ The code has been split amongst the two seperate folders, "Ouroboros Engine" and
 Within these are further subfolders to seperate all the different managers and interfaces within the engine.
 
 Some of the game code has been built with a 2D platformer in mind, however, I have done my best to make the engine generic so it can handle most other 2D genres.
+
+The Scene Manager within this engine is an adaptation of some Microsoft source code. See included a Microsoft Permissive License that grants me the rights to do so.
